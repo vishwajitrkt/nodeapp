@@ -19,5 +19,13 @@
     "moment": "^2.29.1",
     "mongoose": "^6.2.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwajitrk/nodeapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishwajitrk/nodeapp/issues"
+  },
+  "homepage": "https://github.com/vishwajitrk/nodeapp#readme"
 }
